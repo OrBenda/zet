@@ -1,1 +1,11 @@
-*Respone* time and throughput:
+Response Time - How long does it take to get the task done.
+
+Performence Time - 1/Execution Time. Meaning, The opposite of performence.
+
+If A is n times faster than B:
+                                Performence of X / Performence of Y   ==   Execution of Y / Execution of X   ==   n.
+
+Example:
+        It takes 10s for A and 15s for B to complete.
+        
+        so 15s/10s == 1.5s  ==>  A is 1.5 faster than B
