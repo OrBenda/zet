@@ -1,0 +1,10 @@
+How can one know how to compute CPU Time?
+
+If you got 2 items of data:
+                            1. We know how many CPU Clock cycles there is
+                            2. We know how long it takes for each Clock Cycle takes
+                            
+==> CPU Time = CPU Clock cycles * Clock Cycle Time  ==  CPU Clock cycles / Clock rate
+
+
+Sometimes its more convienient to multiply CPU CC with CCT, and sometimes its better to divide CPU CC to Clock rate
