@@ -1,0 +1,12 @@
+How does the functions cos/sin defined?
+
+We draw the unit circle around (0,0)
+  Let a be an angle.
+    The point that meets the unit circle with the angle a is (cos(a), sin(a))
+
+SO:
+    if a = 0: cos(0) = 1, sin(0) = 0
+    
+    if a = pi/2: cos(pi/2) = 0, sin(pi/2) = 1
+
+In a more intuitive way, for some angle a, cos(a) is the X value and sin(a) is the Y value.
