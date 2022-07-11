@@ -1,0 +1,12 @@
+When can one calculate the intergrability of a function?
+
+1.15 - אם פונקציה מונוטונית היא אינטגרבילית
+
+1.17 -אם פונקציה חסומה ומונוטונית למקוטעין היא אינטגרבילית
+
+1.18 - אם פונקציה רציפה בקטע חסום היא אינטגרבילית
+
+1.19 - אם פונקציה חסומה בקטע ורציפה בכל קטע פרט למספר סופי של נקודות היא אינטרבילית
+
+Summary: The integrability of a function is determined by its Monotonous and Continuous.
+         If we remove the monotonous and continuous from the function, the function has to be bound.
