@@ -1,5 +1,7 @@
 Let f:[a,b]-->R be a continous function.
-  If a>0 and b<0 (or the opposite)
+  If f(a)>0 and f(b)<0 (or the opposite)
     There is a point between a and b, a<c<b, where f(c) = 0.
     
 Intuition: f is continous, therefore the function has to go through 0 because a>0 and b<0.
+
+#ערך הביניים # אינפי # רציפות
