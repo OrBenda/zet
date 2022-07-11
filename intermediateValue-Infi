@@ -1,7 +1,11 @@
 Let f:[a,b]-->R be a continous function.
-  If f(a)>0 and f(b)<0 (or the opposite)
-    There is a point between a and b, a<c<b, where f(c) = 0.
+  Let y0 be a value between f(a) and f(b), f(a)<y0<f(b)
+    ==> There is a point x0 between a and b, a<x0<b, where f(x0) = y0.
     
-Intuition: f is continous, therefore the function has to go through 0 because a>0 and b<0.
+Intuition: f is continous and f(a)<y0<f(b). We'll define a new function g where g(x) = f(x)-y0 (also continous).
+            g(a) = f(a)-y0 < 0 (f(a) < y0)
+            g(b) = f(b)-y0 > 0
+            ==> According to the private case, there's a point x0 where g(x0) = 0
+                ==> g(x0) = f(x0)-y0 = 0 <==> f(x0) = y0.
 
 #ערך הביניים # אינפי # רציפות
