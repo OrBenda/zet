@@ -1,0 +1,7 @@
+Representation of numbers in different base forms:
+
+* if we're given a number in base 4/8/10/16.. in order to represent the number in a different base:
+  1. Divide the number by 2 in order to get the given number in binary form.
+  2. If the wanted form was in binary base we're done. else:
+  3. If the number is a power of 2, make space "by the power"(If the wanted form is base 4, "split" the number to 2 digits each. base 16: split to 4)
+  4. If the number is not a power of 2, It's better off go through base 10 in order to get the desired form.
